@@ -3,3 +3,5 @@ Repository is created to develop an e-channeling application ( Users can registe
 
 
 Suwasetha is a small size chaneling center. this project was conducted to devolop a web application to handle the doctor apoinment system. bigin with the creation of data base for the project and two doctors who are (Dr.Nathasha singhawansha and Dr. Hasitha perera) were intialized to the databse when devoloped. they have the admin access to hedule the apoinment date acording tot he availabilty. further can added doctors to the system.
+
+Patients or users are able to log in their profile and check the doctor availability with date and time. If there is not a user profile, everyone is able to sign up use registration form as a new patient/user. Then user can sign in and check doctor's availability and book a doctor through this site.
